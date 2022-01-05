@@ -1,37 +1,128 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="zh_CN">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>英伟达仿站</title>
+</head>
+<body>
+    <div id="one-top">
+        <span class="one-top-background-png"><img src="img/ind.png" alt="" width="100%"></span>
+        <span class="one-top-txt">产品</span>
+        <span class="one-top-txt">解决方案</span>
+        <span class="one-top-txt">行业</span>
+        <span class="one-top-txt">为您推荐</span>
+        <span class="one-top-diss">&nbsp;</span>
+        <span class="one-top-txts">支持</span> 
+        <span class="one-top-txts">驱动程序</span>         
+    </div>
 
-You can use the [editor on GitHub](https://github.com/liuzetao/NvidiaCopy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    <div id="background-png">
+        <span class="two-txt">NVIDIA 在 CES 上的<br>特别演讲</span>
+        <span class="two-txts">北京时间 1 月 5 日凌晨 0 点，星期三</span>
+        <button>锁定日程</button>
+    </div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <div id="table-txt">
+        <span class="txt">产品</span>
+        <table class="table-one">
+            <tr>
+                <td class="table-td-diss"></td>
+                <td class="table-td-background"><span><bt>强者制胜</bt><br><wz>全新的RTX3080</wz></span></td>
+                <td></td>
+                <td class="table-td-background"><span>keji</span></td>
+                <td></td>
+                <td class="table-td-background"><span>keji</span></td>
+                <td></td>
+                <td class="table-td-background"><span>keji</span></td>
+                <td class="table-td-diss"></td>
+            </tr>          
+        </table>
 
-### Markdown
+        <span class="txt">游戏</span>
+        <table class="table-one">
+            <tr>
+                <td class="table-td-diss"></td>
+                <td class="table-td-background"><span><bt>强者制胜</bt><br><wz>全新的RTX3080</wz></span></td>
+                <td></td>
+                <td class="table-td-background"><span>keji</span></td>
+                <td></td>
+                <td class="table-td-background"><span>keji</span></td>
+                <td></td>
+                <td class="table-td-background"><span>keji</span></td>
+                <td class="table-td-diss"></td>
+            </tr>          
+        </table>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+        <span class="txt">最新消息</span>
+        <table class="table-one">
+            <tr>
+                <td class="table-td-diss"></td>
+                <td class="table-td-background"><span><bt>强者制胜</bt><br><wz>全新的RTX3080</wz></span></td>
+                <td></td>
+                <td class="table-td-background"><span>keji</span></td>
+                <td></td>
+                <td class="table-td-background"><span>keji</span></td>
+                <td></td>
+                <td class="table-td-background"><span>keji</span></td>
+                <td class="table-td-diss"></td>
+            </tr>      
+            <tr class="table-br"></tr>
+            <tr>
+                <td class="table-td-diss"></td>
+                <td class="table-td-background"><span><bt>强者制胜</bt><br><wz>全新的RTX3080</wz></span></td>
+                <td></td>
+                <td class="table-td-background"><span>keji</span></td>
+                <td></td>
+                <td class="table-td-background"><span>keji</span></td>
+                <td></td>
+                <td class="table-td-background"><span>keji</span></td>
+                <td class="table-td-diss"></td>
+            </tr>          
+        </table>
+    </div>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liuzetao/NvidiaCopy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    <div id="bottom-one">
+        <br><br><br><table class="bottom-table">
+            <tr>
+                <td class="bottom-diss"></td>
+                <td class="bottom-txt">公司信息</td>
+                <td></td>
+                <td class="bottom-txt">参与</td>
+                <td ></td>
+                <td class="bottom-txt">新闻与活动</td>
+                <td class="bottom-diss"></td>
+            </tr>
+            <tr>
+                <td class="bottom-diss"></td>
+                <td class="bottom-txt"><hr></td>
+                <td></td>
+                <td class="bottom-txt"><hr></td>
+                <td ></td>
+                <td class="bottom-txt"><hr></td>
+                <td class="bottom-diss"></td>
+            </tr>
+            <tr>
+                <td class="bottom-diss"></td>
+                <td class="bottom-txts">关于 NVIDIA</td>
+                <td></td>
+                <td class="bottom-txts">人才招聘</td>
+                <td ></td>
+                <td class="bottom-txts">新闻中心</td>
+                <td class="bottom-diss"></td>
+            </tr>
+            <tr>
+                <td class="bottom-diss"></td>
+                <td class="bottom-txts">公司概览</td>
+                <td></td>
+                <td class="bottom-txts">开发者社区</td>
+                <td ></td>
+                <td class="bottom-txts">NVIDIA 博客</td>
+                <td class="bottom-diss"></td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
