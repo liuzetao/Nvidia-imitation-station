@@ -103,6 +103,10 @@ body{
     border-radius: 5px;
 }
 
+#table-txt .table-td-background:hover{
+    box-shadow: #666666 1px 2px 1px 2px;
+}
+
 #table-txt .table-td-background bt{
     color: #76b900;
     font-size: 20px;
@@ -134,7 +138,7 @@ body{
 
 #bottom-one{
     width: 100%;
-    height: 500px;
+  
     background: #000000;
     margin-top: 60px;
    
@@ -156,6 +160,7 @@ body{
  .bottom-diss{
     width: 5%;
 }
+
 hr{
     height: 0px; 
     border-top: 1px solid #999; 
@@ -169,4 +174,103 @@ hr{
     font-size: 18px;
     width: 29%;
     text-align: left;
+}
+
+#bottom-one .bottom-txtss{
+    color: #76b900;
+    font-size: 15px;
+    width: 29%;
+    text-align: left;
+}
+
+#bottom-one .bottom-table .bottom-height{
+    height: 10px;
+}
+
+#bottom-one .bottom-two-txt{
+    color: #ffffff;
+    margin-left: 10%;
+    margin-top: 4%;
+    display: block;
+    font-size: 25px;
+}
+
+#bottom-one  .two-png{
+    width: 4%;
+    vertical-align: middle;
+}
+
+
+#bottom-one .bottom-two-txt button{
+    color: #ffffff;
+    background-color: #76b900;
+    border: none;
+    width: 6%;
+    height: 45px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#bottom-one .bottom-two-txt button:hover{
+    background-color: #76d300;
+}
+
+#three-bottom{
+    width: 100%;
+    margin-top: 20px;
+    vertical-align: middle;
+}
+
+#three-bottom .three-png{
+    margin-left: 10%;
+}
+
+#three-bottom .three-pngs{
+    width: 8%;
+}
+
+#three-bottom .three-txt{
+    font-weight: 20px;
+    color: #cccccc;
+    float: right;
+    font-weight: bold;
+    margin-right: 10%;
+    font-size: 20px;
+}
+
+#three-bottom .three-bottom-txt{
+    margin-left: 10%;
+    margin-top: 8px;
+    display: inline-block;
+    border-right: 1px #666666 solid;
+    color: #666666;
+}
+
+#three-bottom .three-bottom-txts{
+    color: #666666;
+    border-right: 1px #666666 solid;
+}
+
+#three-bottom .three-bottom-txtss{
+    color: #666666;
+}
+
+#three-bottom .three-bottom-txt:hover{
+    color: #000000;
+}
+
+#three-bottom .three-bottom-txts:hover{
+    color: #000000;
+}
+
+#three-bottom .three-bottom-txtss:hover{
+    color: #000000;
+}
+
+#three-bottom .three-bottom-text{
+    margin-left: 10%;
+    margin-top: 8px;
+    display: inline-block;
+    font-size: 10px;
+    color: #cccccc;
 }
