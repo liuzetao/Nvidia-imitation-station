@@ -9,6 +9,7 @@ body{
     top: 0;
     background: #ffffff;
     width: 100%;
+    box-shadow: #666666 1px 2px 10px 2px; 
 }
 
 #one-top .one-top-background-png{
