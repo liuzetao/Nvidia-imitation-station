@@ -26,12 +26,20 @@ body{
     margin-left: 1%;
 }
 
+#one-top .one-top-txt:hover{
+    color: #000000;
+}
+
 #one-top .one-top-txts{
     line-height: 45px;
     color: #666666;
     font-size: 10px;
     float: right;
     margin-right: 2%;
+}
+
+#one-top .one-top-txts:hover{
+    color: #000000;
 }
 
 #one-top .one-top-diss{
@@ -44,7 +52,7 @@ body{
     width: 100%;
     height: 550px;
     background-image: url(https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg1.gamersky.com%2Fimage2016%2F05%2F20160513zj_235_3%2Fgamersky_01origin_01_20165131719D3C.jpg&refer=http%3A%2F%2Fimg1.gamersky.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1645053360&t=6be4de87511776798bdc6965c79c132c);
-    background-size: 100%;
+    background-size: 100% 100%;
 }
 
 .two-txt{
@@ -127,11 +135,11 @@ body{
 }
 
 #table-txt .table-td-background span{
-    background: #ffffff;
+    background: #ffffff50;
     width: 100%;
     height: 100px;
     display: block;
-    vertical-align: bottom;
+    color: #ffffff;
 }
 
 #table-txt .table-one .table-br{
